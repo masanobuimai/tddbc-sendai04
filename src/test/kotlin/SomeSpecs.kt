@@ -1,5 +1,5 @@
-import org.spek.Spek
 import kotlin.test.assertEquals
+import org.jetbrains.spek.api.Spek
 
 class SomeSpecs : Spek() {{
   given("与える条件はこれ") {
